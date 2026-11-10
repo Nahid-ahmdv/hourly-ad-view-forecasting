@@ -1,0 +1,23 @@
+# Direct-package pins based on the recorded analysis environment.
+# Python 3.10.18; reference platform macOS arm64.
+# NOT a complete transitive lockfile; a clean installation has NOT been tested.
+# NumPy metadata incorrectly reported 2.2.6; the imported runtime was 1.26.4.
+# Matplotlib metadata reported 3.10.5; the imported runtime was 3.10.6.
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.2
+statsmodels==0.14.5
+scikit-learn==1.7.2
+xgboost==3.0.5
+prophet==1.4.0
+matplotlib==3.10.6
+seaborn==0.13.2
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.30.1
+jupyter-client==8.6.3
+# Supporting packages checked by import:
+# pandas Styler, historical HTML-table parsing, and notebook HTML export.
+Jinja2==3.1.6
+lxml==6.0.2
+nbconvert==7.16.5
