@@ -1,0 +1,26 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and settings
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Optional local re-executions and exports
+*_reexecuted.ipynb
+*.html
+
+# Local article material and editorial revision records
+/Medium articles/
+/editorial_revision/
