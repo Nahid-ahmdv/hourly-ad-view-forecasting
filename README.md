@@ -15,7 +15,7 @@ evaluation, and final forecast.
 
 **Full analysis and code:** [Executed forecasting notebook](hourly_ads_forecasting_final.ipynb)
 
-**Medium article:** Link coming soon.
+**Medium article:** [Forecasting 48 Hours Ahead: How Much Complexity Was Worth It?](https://medium.com/the-quantastic-journal/forecasting-48-hours-ahead-how-much-complexity-was-worth-it-cf4308edce3b)
 
 The saved analysis includes the explanations, result tables, and 13 figures.
 You can read the findings without running the models.
